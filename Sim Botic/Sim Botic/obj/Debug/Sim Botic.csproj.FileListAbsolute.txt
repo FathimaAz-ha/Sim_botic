@@ -1,0 +1,58 @@
+C:\Users\ASUS\OneDrive\Desktop\Sim Botic\Sim Botic Game\Sim Botic\Sim Botic\bin\Debug\Sim Botic.exe.config
+C:\Users\ASUS\OneDrive\Desktop\Sim Botic\Sim Botic Game\Sim Botic\Sim Botic\bin\Debug\Sim Botic.exe
+C:\Users\ASUS\OneDrive\Desktop\Sim Botic\Sim Botic Game\Sim Botic\Sim Botic\bin\Debug\Sim Botic.pdb
+C:\Users\ASUS\OneDrive\Desktop\Sim Botic\Sim Botic Game\Sim Botic\Sim Botic\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\OneDrive\Desktop\Sim Botic\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim Botic.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\Sim Botic\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim_Botic.Dashboard.resources
+C:\Users\ASUS\OneDrive\Desktop\Sim Botic\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim_Botic.Login.resources
+C:\Users\ASUS\OneDrive\Desktop\Sim Botic\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim_Botic.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\Sim Botic\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim_Botic.Signup.resources
+C:\Users\ASUS\OneDrive\Desktop\Sim Botic\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim Botic.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Desktop\Sim Botic\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim Botic.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Sim Botic\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim Botic.csproj.Up2Date
+C:\Users\ASUS\OneDrive\Desktop\Sim Botic\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim Botic.exe
+C:\Users\ASUS\OneDrive\Desktop\Sim Botic\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim Botic.pdb
+C:\Users\ASUS\OneDrive\Desktop\Sim Botic\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim_Botic.GameBoard.resources
+C:\Users\ASUS\OneDrive\Desktop\Sim Botic\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim_Botic.ScoreBoard.resources
+C:\Users\ASUS\OneDrive\Desktop\Sim Botic\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim_Botic.Hello.resources
+C:\Users\HoriZon\OneDrive\Desktop\c# project\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim Botic.csproj.AssemblyReference.cache
+C:\Users\HoriZon\OneDrive\Desktop\c# project\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim Botic.exe
+C:\Users\HoriZon\OneDrive\Desktop\c# project\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim Botic.pdb
+C:\Users\ASUS\Downloads\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim Botic.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim Botic.exe
+C:\Users\ASUS\Downloads\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim Botic.pdb
+C:\Users\ASUS\Downloads\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim_Botic.Dashboard.resources
+C:\Users\ASUS\Downloads\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim_Botic.Hello.resources
+C:\Users\ASUS\Downloads\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim_Botic.GameBoard.resources
+C:\Users\ASUS\Downloads\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim_Botic.Login.resources
+C:\Users\ASUS\Downloads\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim_Botic.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim_Botic.ScoreBoard.resources
+C:\Users\ASUS\Downloads\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim_Botic.Signup.resources
+C:\Users\ASUS\Downloads\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim Botic.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim Botic.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\bin\Debug\Sim Botic.exe.config
+C:\Users\ASUS\Downloads\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\bin\Debug\Sim Botic.exe
+C:\Users\ASUS\Downloads\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\bin\Debug\Sim Botic.pdb
+C:\Users\ASUS\Downloads\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\Downloads\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim Botic.csproj.Up2Date
+C:\Users\ASUS\Downloads\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\bin\Debug\simbotic_db.mdf
+C:\Users\ASUS\Downloads\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\bin\Debug\simbotic_db_log.ldf
+C:\Users\ASUS\Downloads\Sim Botic Game friday\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim Botic.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Sim Botic Game friday\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim_Botic.Dashboard.resources
+C:\Users\ASUS\Downloads\Sim Botic Game friday\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim_Botic.Hello.resources
+C:\Users\ASUS\Downloads\Sim Botic Game friday\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim_Botic.GameBoard.resources
+C:\Users\ASUS\Downloads\Sim Botic Game friday\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim_Botic.Login.resources
+C:\Users\ASUS\Downloads\Sim Botic Game friday\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim_Botic.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Sim Botic Game friday\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim_Botic.ScoreBoard.resources
+C:\Users\ASUS\Downloads\Sim Botic Game friday\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim_Botic.Signup.resources
+C:\Users\ASUS\Downloads\Sim Botic Game friday\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim Botic.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Sim Botic Game friday\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim Botic.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Sim Botic Game friday\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim Botic.exe
+C:\Users\ASUS\Downloads\Sim Botic Game friday\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim Botic.pdb
+C:\Users\ASUS\Downloads\Sim Botic Game friday\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\bin\Debug\simbotic_db.mdf
+C:\Users\ASUS\Downloads\Sim Botic Game friday\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\bin\Debug\simbotic_db_log.ldf
+C:\Users\ASUS\Downloads\Sim Botic Game friday\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\bin\Debug\Sim Botic.exe.config
+C:\Users\ASUS\Downloads\Sim Botic Game friday\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\bin\Debug\Sim Botic.exe
+C:\Users\ASUS\Downloads\Sim Botic Game friday\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\bin\Debug\Sim Botic.pdb
+C:\Users\ASUS\Downloads\Sim Botic Game friday\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\Downloads\Sim Botic Game friday\Sim Botic Game\Sim Botic Game\Sim Botic\Sim Botic\obj\Debug\Sim Botic.csproj.Up2Date

@@ -130,6 +130,9 @@ Sim Botic Game/
 **Fathima Azha**
 
 > Developed as a C# quiz game project using Windows Forms and embedded database.
+>
+> *Collabarator**
+> M.I.Izla
 
 ---
 
